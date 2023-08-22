@@ -1,0 +1,11 @@
+.Input{
+    width: 22rem;
+    height: 5rem;
+    background-color: #A3CCD5;
+    border-radius: 1rem;
+    margin-top: 4rem;
+}
+.Label{
+    font-size: 2rem;
+    margin-left: 21rem;
+}

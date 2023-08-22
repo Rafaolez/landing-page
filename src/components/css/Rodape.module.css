@@ -1,0 +1,19 @@
+.DiveMaior{
+    margin: 0;
+    height: 3rem;
+    background-color: white;
+}
+.DiveREdonda{
+    height:6rem;
+    width: 6rem;
+    border-radius: 6rem;
+    margin-left: 44rem;
+    background-color: white;
+}
+.Img{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 4rem;
+    margin-left: 0.89rem;
+    margin-top: 1.5rem;
+}

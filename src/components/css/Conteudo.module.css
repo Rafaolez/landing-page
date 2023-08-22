@@ -1,0 +1,26 @@
+.caixamaior{
+    display: flex;
+}
+.Foto{
+    height: 23rem;
+    width: 46rem;
+    margin-top: 20rem;
+    margin-left: 2rem;
+    
+}
+.DivAzulTexto{
+    background-color: #0DA5D1;
+    width: 43rem;
+    height: 28rem;
+    border-radius: 8rem;
+    margin-top: 17rem;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+} 
+.Texto{
+    color: #000;
+    font-size: 35px;
+}

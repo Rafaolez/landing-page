@@ -1,0 +1,34 @@
+.caixaAzul{
+    margin-top: 5rem;
+    width: 73rem;
+    height: 32rem;
+    background-color: #0DA5D1;
+    margin-left: 11rem;
+    margin-bottom: 5rem;
+    border-radius: 3rem;
+    display: block;
+}
+.Caixatexto{
+    font-size: 3rem;
+    color: white;
+}
+.Texto1{
+    margin-left: 20rem
+}
+.Texto2{
+    margin-left: 20rem
+}
+.Texto3{
+    margin-left: 11rem;
+}
+.Caixainput{
+    margin-top: 5rem;
+}
+.BtN{
+    width: 259px;
+    height: 69px;
+    background: #A3CCD5;
+    font-size: 2rem;
+    margin-left: 28rem;
+    margin-top: 2rem;
+}
